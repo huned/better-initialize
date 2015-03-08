@@ -1,7 +1,7 @@
 require File.expand_path('../lib/better_initialize/version', __FILE__)
 
 Gem::Specification.new do |s|
-  s.name          = 'Better Initialize'
+  s.name          = 'better-initialize'
   s.version       = BetterInitialize::VERSION
   s.summary       = 'A better ruby initialize.'
   s.description   = File.read('./README.md')
