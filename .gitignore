@@ -1,0 +1,11 @@
+# ignore logs
+log
+
+# ignore bundle
+.bundle
+
+# ignore temp files
+.DS_Store
+*~
+*.swp
+tmp

@@ -1,0 +1,26 @@
+PATH
+  remote: .
+  specs:
+    Better Initialize (0.0.1)
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    byebug (3.5.1)
+      columnize (~> 0.8)
+      debugger-linecache (~> 1.2)
+      slop (~> 3.6)
+    columnize (0.9.0)
+    debugger-linecache (1.2.0)
+    power_assert (0.2.3)
+    slop (3.6.0)
+    test-unit (3.0.9)
+      power_assert
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  Better Initialize!
+  byebug
+  test-unit
